@@ -1,0 +1,361 @@
+{
+  "extension_name": {
+    "message": "VScreenshot Assistant"
+  },
+  "extension_description": {
+    "message": "Support taking screenshots on video streaming platforms such as YouTube."
+  },
+  "context_menu_open_album": {
+    "message": "Show album"
+  },
+  "context_menu_open_option": {
+    "message": "Settings"
+  },
+  "options": {
+    "message": "Options"
+  },
+  "options_tab_preferences": {
+    "message": "Settings"
+  },
+  "options_tab_help": {
+    "message": "Help"
+  },
+  "options_tab_license": {
+    "message": "License"
+  },
+  "options_tab_changelog": {
+    "message": "Changelog"
+  },
+  "prefs_general": {
+    "message": "General"
+  },
+  "prefs_screenshot": {
+    "message": "Screenshot"
+  },
+  "prefs_animation": {
+    "message": "Animation"
+  },
+  "prefs_album": {
+    "message": "Album"
+  },
+  "prefs_tweet": {
+    "message": "Tweet"
+  },
+  "prefs_reset": {
+    "message": "Reset"
+  },
+  "prefs_general_click_icon_action": {
+    "message": "Action when the icon is clicked"
+  },
+  "prefs_general_click_icon_action_open_album": {
+    "message": "Show album"
+  },
+  "prefs_general_click_icon_action_capture_screenshot": {
+    "message": "Take a screenshot"
+  },
+  "prefs_general_notify_toast": {
+    "message": "Notify when a screenshot is taken"
+  },
+  "prefs_general_notify_position": {
+    "message": "Position of notification"
+  },
+  "prefs_general_notify_position_bottom_left": {
+    "message": "Bottom left"
+  },
+  "prefs_general_notify_position_bottom_right": {
+    "message": "Bottom right"
+  },
+  "prefs_general_notify_position_top_left": {
+    "message": "Top left"
+  },
+  "prefs_general_notify_position_top_right": {
+    "message": "Top right"
+  },
+  "prefs_general_notify_duration": {
+    "message": "Duration of notification"
+  },
+  "prefs_screenshot_hotkey": {
+    "message": "Shortcut key for taking a screenshot"
+  },
+  "prefs_screenshot_enabled_continuous_capture": {
+    "message": "Enable continuous capture"
+  },
+  "prefs_screenshot_continuous_capture_hotkey": {
+    "message": "Shortcut key for continuous capture"
+  },
+  "prefs_screenshot_continuous_capture_interval": {
+    "message": "Continuous capture interval"
+  },
+  "prefs_screenshot_format": {
+    "message": "File format"
+  },
+  "prefs_screenshot_format_jpeg": {
+    "message": "JPEG"
+  },
+  "prefs_screenshot_format_jpeg_quality": {
+    "message": "Quality (0-100)"
+  },
+  "prefs_screenshot_format_png": {
+    "message": "PNG"
+  },
+  "prefs_screenshot_enabled_save_to_clipboard": {
+    "message": "Save to clipboard"
+  },
+  "prefs_album_enable_virtual_scroll": {
+    "message": "Enable virtual scroll"
+  },
+  "prefs_album_files_per_archive": {
+    "message": "Number of files per ZIP archive"
+  },
+  "prefs_thumbnail_size": {
+    "message": "Thumbnail size"
+  },
+  "prefs_thumbnail_width": {
+    "message": "Width"
+  },
+  "prefs_thumbnail_height": {
+    "message": "Height"
+  },
+  "prefs_tweet_enabled": {
+    "message": "Enable post to Twitter"
+  },
+  "prefs_tweet_url": {
+    "message": "URL"
+  },
+  "prefs_tweet_title": {
+    "message": "Title"
+  },
+  "prefs_tweet_author": {
+    "message": "Channel name"
+  },
+  "prefs_tweet_hashtag": {
+    "message": "Hashtags"
+  },
+  "prefs_animation_enabled": {
+    "message": "Enable recording animated GIF"
+  },
+  "prefs_animation_hotkey": {
+    "message": "Shortcut key for recording animated GIF"
+  },
+  "prefs_animation_width": {
+    "message": "Width"
+  },
+  "prefs_animation_height": {
+    "message": "Height"
+  },
+  "prefs_animation_interval": {
+    "message": "Frame time"
+  },
+  "prefs_reset_preferences": {
+    "message": "Initialize settings"
+  },
+  "prefs_reset_preferences_button": {
+    "message": "Initialize"
+  },
+  "prefs_reset_preferences_dialog_label": {
+    "message": "Do you want to initialize settings?"
+  },
+  "prefs_reset_preferences_dialog_cancel": {
+    "message": "Cancel"
+  },
+  "prefs_reset_preferences_dialog_exec": {
+    "message": "Initialize"
+  },
+  "prefs_reset_storage": {
+    "message": "Delete all screenshots"
+  },
+  "prefs_reset_storage_button": {
+    "message": "Delete"
+  },
+  "prefs_reset_storage_dialog_confirm_label": {
+    "message": "Do you want to delete all screenshots?"
+  },
+  "prefs_reset_storage_dialog_label": {
+    "message": "Deleting screenshots..."
+  },
+  "prefs_reset_storage_dialog_cancel": {
+    "message": "Cancel"
+  },
+  "prefs_reset_storage_dialog_exec": {
+    "message": "Delete"
+  },
+  "prefs_save": {
+    "message": "Save"
+  },
+  "help_app_description": {
+    "message": "VScreenshot Assistant is a browser extension which supports taking screenshots on several video streaming platforms such as YouTube"
+  },
+  "help_usage": {
+    "message": "Usage"
+  },
+  "help_usage_capture": {
+    "message": "Capture"
+  },
+  "help_usage_capture_text": {
+    "message": "Press the shortcut keys to take screenshots during video playback on supported platforms."
+  },
+  "help_usage_capture_feature": {
+    "message": "Features"
+  },
+  "help_usage_capture_feature_key_binding": {
+    "message": "Shortcut keys"
+  },
+  "help_usage_capture_feature_text": {
+    "message": "Description"
+  },
+  "help_usage_capture_screenshot": {
+    "message": "Screenshot"
+  },
+  "help_usage_capture_continuous_screenshot": {
+    "message": "Continuous screenshot"
+  },
+  "help_usage_capture_animation": {
+    "message": "Record animated GIF"
+  },
+  "help_usage_capture_screenshot_text": {
+    "message": "Take a screenshot when shortcut keys are pressed."
+  },
+  "help_usage_capture_continuous_screenshot_text": {
+    "message": "Take screenshots continuously when shortcut keys are pressed and held."
+  },
+  "help_usage_capture_animation_text": {
+    "message": "Take screenshots continuously and create an animated GIF when shortcut keys are pressed and held"
+  },
+  "help_usage_album": {
+    "message": "Album"
+  },
+  "help_usage_album_text": {
+    "message": "Click the VScreenshot Assistant icon or click \"Show album\" in the context menu to open the album window.\nYou can view and manage the screenshots you have taken in the album window."
+  },
+  "help_usage_save": {
+    "message": "Save all"
+  },
+  "help_usage_save_text": {
+    "message": "You can save all screenshots of a selected video as a ZIP archive."
+  },
+  "help_usage_tweet": {
+    "message": "Twitter post"
+  },
+  "help_usage_tweet_text": {
+    "message": "Select screenshots in the album window and click the \"Tweet\" button to open a Tweet window.\nInformation such as title and URL are automatically filled, with the selected screenshots attached.\n\nYou have to sign in to your account at twitter.com to use this feature."
+  },
+  "help_supported_platforms": {
+    "message": "Supported platforms"
+  },
+  "help_supported_platform_youtube": {
+    "message": "YouTube"
+  },
+  "help_supported_platform_twitch": {
+    "message": "Twitch"
+  },
+  "help_supported_platform_nicovideo": {
+    "message": "Niconico"
+  },
+  "help_supported_platform_spwn": {
+    "message": "SPWN"
+  },
+  "help_supported_platform_streaming_plus": {
+    "message": "Streaming+ (eplus)"
+  },
+  "help_supported_platform_hololive_fc": {
+    "message": "hololive official fanclub"
+  },
+  "help_supported_platform_tokinosora_fc": {
+    "message": "TOKINO SORA OFFICIAL FANCLUB"
+  },
+  "help_source_code": {
+    "message": "Source code"
+  },
+  "help_license": {
+    "message": "License"
+  },
+  "license_third_party_notices": {
+    "message": "The following sets forth attribution notices for third-party software that may be contained in portions of this application."
+  },
+  "album": {
+    "message": "Album"
+  },
+  "album_menu_download": {
+    "message": "Save all"
+  },
+  "album_menu_show_thumbnail": {
+    "message": "Show the thumbnail"
+  },
+  "album_menu_delete": {
+    "message": "Delete"
+  },
+  "album_menu_preferences": {
+    "message": "Settings"
+  },
+  "album_video_order_last_update_asc": {
+    "message": "Last updated/Ascending"
+  },
+  "album_video_order_last_update_desc": {
+    "message": "Last updated/Descending"
+  },
+  "album_video_order_video_date_asc": {
+    "message": "Publish date/Ascending"
+  },
+  "album_video_order_video_date_desc": {
+    "message": "Publish date/Descending"
+  },
+  "album_screenshot_order_capture_date_asc": {
+    "message": "Captur date/Ascending"
+  },
+  "album_screenshot_order_capture_date_desc": {
+    "message": "Captur date/Descending"
+  },
+  "album_screenshot_order_video_pos_asc": {
+    "message": "Playback position/Ascending"
+  },
+  "album_screenshot_order_video_pos_desc": {
+    "message": "Playback position/Descending"
+  },
+  "album_delete_confirm_label": {
+    "message": "Do you want to delete the screenshots?"
+  },
+  "album_deleting_label": {
+    "message": "Deleting screenshots..."
+  },
+  "album_delete_button": {
+    "message": "Delete"
+  },
+  "album_cancel_button": {
+    "message": "Cancel"
+  },
+  "album_download_preparing_label": {
+    "message": "Creating ZIP file..."
+  },
+  "album_tweet_screenshot_button": {
+    "message": "Tweet"
+  },
+  "album_screenshot_capture_date": {
+    "message": "Captur date"
+  },
+  "album_screenshot_video_pos": {
+    "message": "Playback position"
+  },
+  "album_screenshot_video_pos_unit": {
+    "message": "s"
+  },
+  "contents_animation_capture_caption": {
+    "message": "Recording animated GIF"
+  },
+  "contents_animation_capture_progress": {
+    "message": "$frame$ Frame / $time$ s",
+    "placeholders": {
+      "frame": {
+        "content": "$1"
+      },
+      "time": {
+        "content": "$2"
+      }
+    }
+  },
+  "contents_animation_resize_caption": {
+    "message": "Resizing animated GIF"
+  },
+  "contents_animation_convert_caption": {
+    "message": "Converting animated GIF"
+  }
+}
